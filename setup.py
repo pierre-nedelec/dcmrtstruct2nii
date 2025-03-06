@@ -22,7 +22,7 @@ setup(
     install_requires=[
         'numpy>=1.15.4',
         'pydicom>=3.0.0',
-        'scikit-image>=0.17.1',
+        'scikit-image>=0.25.0',
         'scipy>=1.2.0',
         'SimpleITK>=1.2.0',
         'cleo>=2.0.0',
