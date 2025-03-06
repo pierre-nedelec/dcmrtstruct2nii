@@ -21,7 +21,7 @@ setup(
     packages=find_packages(),  # same as name
     install_requires=[
         'numpy>=1.15.4',
-        'pydicom>=1.2.1',
+        'pydicom>=3.0.0',
         'scikit-image>=0.17.1',
         'scipy>=1.2.0',
         'SimpleITK>=1.2.0',
